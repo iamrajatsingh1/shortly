@@ -1,4 +1,4 @@
-# rajat.ly | URL Shotener
+# shortify | URL Shotener
 
 Beautifully designed & completely responsive application which uses NodeJs Express backend to shorten the URLs
 
@@ -17,7 +17,7 @@ Beautifully designed & completely responsive application which uses NodeJs Expre
 ## Installation
 
 ```
-git clone https://github.com/rajatsyngh/rajat.ly.git
+git clone https://github.com/rajatsyngh/shortify.git
 cd [foldername]
 npm install && npm run start
 ```
