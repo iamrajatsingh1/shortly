@@ -17,7 +17,7 @@ Beautifully designed & completely responsive application which uses NodeJs Expre
 ## Installation
 
 ```
-git clone https://github.com/rajatsyngh/shortify.git
+git clone https://github.com/iamrajatsingh1/shortly.git
 cd [foldername]
 npm install && npm run start
 ```
