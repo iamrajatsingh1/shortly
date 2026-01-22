@@ -1,4 +1,4 @@
-# shortify | URL Shotener
+# shortly | URL Shotener
 
 Beautifully designed & completely responsive application which uses NodeJs Express backend to shorten the URLs
 
